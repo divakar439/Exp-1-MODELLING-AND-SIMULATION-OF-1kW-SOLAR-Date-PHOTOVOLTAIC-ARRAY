@@ -79,4 +79,3 @@ The photon can pass straight through the silicon — this (generally) happens fo
 ## Result:
 
 Thus, the solar PV energy system is simulated using MATLAB and the I-V and P-V graphs are determined for the given panel rating.  
-
